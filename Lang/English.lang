@@ -1,0 +1,201 @@
+Color input
+Subtr. (Difference)
+Decimal system
+Cancel
+Apply
+Donate
+Font options
+Fonts
+Add font
+Remove the current font
+Remove all fonts
+Show all fonts in MsgBox
+About
+is a program to convert typed text into the text, strongly resembling handwriting.
+Version, etc.
+OK
+System information
+File
+Input the text from the file
+Output
+Help
+Help Contents
+Check for updates
+The background
+Angle
+Text Color
+The size of the letters
+Vertical deflection
+Inter-character gap
+The default
+Image
+Solid color
+Line
+Static
+Range
+One color
+Range of colors
+Static
+Range
+Type of canvas
+Printer
+Unit of measure fields
+Top
+Bottom
+The left
+Right
+field
+Display debugging information to addictional window
+Debug mode
+Text editor
+Preview
+Start
+Line options
+Use
+horizontal
+lines
+vertical
+Canvas bound (field)
+Offset
+from the top
+canvas
+from the bottom
+from the left
+from the right
+The intervals between the lines
+Synchronization with the text
+Draw straight for the fields
+Line color options
+Type of border
+Horizontal
+Vertical
+Primary side
+Alternate sides
+The offset to the opposite direction:
+Customize the color line
+Notepad
+Output
+Entering numbers
+I do not need the maximum difference? Use range mode.
+mist be below DHS!
+There were mistakes in the processing of the input. Fix mistakes and try again.
+Range
+Copied
+TrueType
+Non-TrueType
+Font number
+set
+The selected font is not
+Font(s) was not selected.
+Font List:
+<<TEMPOLARY UNUSED.>>
+Select a unit of measurement.
+UNITS:
+Twip
+Point
+Pixel
+Symbol
+Inch
+Millimeter
+Centimeter
+ANSWER Entering Numbers!
+All graphics files
+Bitmaps
+Image
+Metafiles
+Icons
+All Files
+Error! The file was not selected!
+You did not install the lines on the canvas. Are you sure you want to continue?
+is not set.
+The font(s) is/are not set
+must be non-negative and less
+length
+width
+the canvas.
+The text is missing or has not been entered.
+NOTE: Then canwas will be filled it will be printed.
+Custom format
+side
+Top
+Lower
+The left
+The right
+has the wrong unit of measure.
+Top
+Lower
+Left
+Right
+offset
+horizontal
+vertical
+line
+Variable
+variable
+Amount of offsets
+Interval
+Color
+border
+Drawing Mode
+Type
+Position
+No picture selected.
+number
+Also to be
+Error in authority functions Rand: Difference module should be less than the absolete value of Upperbound.
+Select the desired mode
+Click 'No' for landscape orientation
+Click 'Yes' for portrait
+Notebook
+Error introduced by the unit.
+Text documents
+Do you want to make a new document?
+The new version of the program.
+Current
+New
+version:
+List of changes:
+Do you want to download the new version?
+The program does not support the fonts
+Language files (*. Lang)
+Total fonts:
+The unit of measurement of the variable
+fields
+mode
+Maximum difference coefficient
+more
+less
+Only support simple text files. Complex documents (e.g. Microsoft Office documents) are not supported
+Upload
+Save
+Clean
+text
+Select the file
+Length
+Width
+of line
+of lines
+No updates found
+the module of subtraction of numbers
+and
+or
+Waiting after each letter, ms:
+Data preparation
+Loading software localization
+Loading the program interface
+Checking for updates
+Program initialization
+
+
+
+
+
+
+
+
+
+
+
+
+
+This is a Google translated version of English (U.S.) localization of this program fixed by program developer. Looking for the good (or fixed) translate.
