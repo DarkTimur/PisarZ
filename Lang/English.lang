@@ -17,7 +17,7 @@ OK
 System information
 File
 Input the text from the file
-Output
+Exit
 Help
 Help Contents
 Check for updates
@@ -45,7 +45,7 @@ Bottom
 The left
 Right
 field
-Display debugging information to addictional window
+Font
 Debug mode
 Text editor
 Preview
@@ -83,12 +83,12 @@ Range
 Copied
 TrueType
 Non-TrueType
-Font number
-set
+Current font exists in the font list
+Chance of current font, %
 The selected font is not
 Font(s) was not selected.
 Font List:
-<<TEMPOLARY UNUSED.>>
+As a result
 Select a unit of measurement.
 UNITS:
 Twip
@@ -185,9 +185,9 @@ Loading software localization
 Loading the program interface
 Checking for updates
 Program initialization
-
-
-
+Spread chances evenly
+Error of chances of the fonts. The total chance fonts must be approximately equal to 100%
+Char
 
 
 
