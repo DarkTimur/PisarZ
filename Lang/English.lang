@@ -9,7 +9,7 @@ Fonts
 Add font
 Remove the current font
 Remove all fonts
-Show all fonts
+Show all fonts in MsgBox
 About
 is a program to convert typed text into the text, strongly resembling handwriting.
 Version, etc.
@@ -188,7 +188,7 @@ Program initialization
 Spread chances evenly
 Error of chances of the fonts. The total chance fonts must be approximately equal to 100%
 Char
-
+Show procents Msgbox
 
 
 
